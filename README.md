@@ -45,6 +45,10 @@ MDes 2013
 
 ## Secondary Advisor
 
+Aishwarya BhattBhatt, Starting From Scratch, MDes (2025) 
+
+Abha Patil, Radical Interfaces, MDes (2025)
+
 Mona Safari, Symbiont: Augmented Sensory Wearable Non-Verbal Communication, MDes 2024
 
 Merel Ververs-Spiegal, SensAble : A Device for Reducing Anxiety, MDes 2023
